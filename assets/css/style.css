@@ -1,0 +1,9 @@
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.item{
+    margin-bottom: 10px;
+    font-size: 18px;
+}
